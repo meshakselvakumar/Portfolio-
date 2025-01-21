@@ -1,1 +1,1 @@
-The .scss (Sass) files are only available in the pro version.
+Welcome to my portfolio showcase, where I exhibit some of the technical projects I've undertaken using Python, HTML, CSS, and JavaScript. Each project showcases my expertise in various technologies and my passion for solving real-world problems through innovative solutions. My projects range from computer vision systems to web applications, demonstrating a wide array of skills and successful implementations.
